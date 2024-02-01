@@ -1,3 +1,5 @@
+REPRESENTACIÓN DE LA ECUACIÓN DE ONDA
+
 Códigos implementados en MATLAB para el proyecto "Representación de la Ecuación de Onda" para la materia Dinámica de Sistemas Físicos de la Lic. en Tecnología impartida en la ENES JURIQUILLA UNAM por el Dr. Jesús Emmanuel Solís Pérez.
 
 El archivo titulado getframes.m fue el utilizado para extraer los frames del video a cámara rápida.
